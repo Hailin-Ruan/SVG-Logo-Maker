@@ -18,7 +18,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.5",
+    "svg-logo-maker": "^1.0.7"
   },
   "devDependencies": {
     "jest": "^28.1.3"
