@@ -17,7 +17,7 @@ With this command-line application, you can easily create simple logos for your 
 
 ## Screen Recording
 
-![Alt Text](url_to_your_gif.gif)
+![SVG logo generator walkthrough gif](./walkthrough-gif/svg-generator-walkthrough.gif)
 
 ## Built With:
 
