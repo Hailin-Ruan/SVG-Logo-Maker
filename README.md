@@ -18,7 +18,8 @@ With this command-line application, you can easily create simple logos for your 
 ## Screen Recording
 
 ![SVG logo generator walkthrough gif](./gif/walkthrough.gif)
-![Youtube Link](https://youtu.be/4vh1_Nq_AOA)
+[![Youtube Link](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 
 ## Built With:
 
